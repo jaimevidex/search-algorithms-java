@@ -1,8 +1,7 @@
-# IATPC — Classical Search Algorithms in Java
+# Classical Search Algorithms in Java
 
 A compact, dependency-free implementation of the classic search algorithms, all sharing one problem interface and one graph representation. The demo solves route-finding on the Romania map from *Artificial Intelligence: A Modern Approach*.
 
-Built for the *Inteligência Artificial e Tecnologias* course at Instituto Superior Técnico.
 
 ## Algorithms
 
